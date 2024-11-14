@@ -148,6 +148,7 @@ article span{
 
 /* Aside Styling */
 aside {
+    min-width: 20%;
     background-color: #ffce54;
     padding: 20px;
     border-radius: 5px;
